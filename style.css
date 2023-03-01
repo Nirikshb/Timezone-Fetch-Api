@@ -1,3 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
 .box2 {
     display: none
 }
+/* box1,container,button,output,result,box2 */
+h1 {
+    margin-top: 1%;
+    margin-left: 2%;
+  }
+  
+  h2 {
+    margin-left: 2%;
+    margin-top: 0.5%;
+  }
+  
+  .box1{
+    background-color: white;
+    margin: 1.5%;
+    border: 1px solid black;
+    padding: 10px;
+    line-height: 300%;
+    padding-bottom: 1%;
+  }
+
+ /* body{
+    background-color: black;
+ } */
+
+input, button{
+    margin-left:2%;
+}
+
+button{
+    width: 5vw;
+    height: 3.5vh;
+}
+
+input{
+    color: white;
+    opacity: 100%;
+    width: 90vw;
+    height: 3vh;
+    border: 1px solid white;
+    background-color: black;
+    fill: none;
+}
+
+button{
+    background-color: white;
+    padding: 0.5em;
+}
+
+.box2{
+    background-color: white;
+    margin: 1.5%;
+    border: 1px solid black;
+    padding: 10px;
+    line-height: 300%; 
+}
+ 
